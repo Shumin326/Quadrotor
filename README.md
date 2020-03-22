@@ -4,7 +4,7 @@
 - graph search part uses Dijkstra and A* algorithm (implemented 2, but choose 1 to use) to generate collision free way points.
 - trajectory is minimum-jerk(5th order), it generates the actual path for quadrotors using the pruned way-points.
 - lab results:
-
+1. control test
 
 ![](control_test.gif)
 
