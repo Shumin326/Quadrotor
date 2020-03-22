@@ -5,9 +5,7 @@
 - trajectory is minimum-jerk(5th order), it generates the actual path for quadrotors using the pruned way-points.
 - lab results:
 
-1. control test: flying a 1m cube
 
-control_test.gif
-2. maze test: flying inside a maze from start point to end point using graph search and min-jerk trajectory
+![](control_test.gif)
 
-maze_test.gif
+![](maze_test.gif)
