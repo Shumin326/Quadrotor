@@ -1,7 +1,10 @@
 # Quadrotor
 
-This  project  explores  a  quatrotor’s  capability  ofmaneuvering 3D space by designing an autonomy stack consisting  of  planning  and  control  algorithms.  Givena  3D  environment  map  with  obstacle  locations,  and,  a start and an end position, the goal is to fly a quadrotor smoothly  and  safely  from  start  to  end  based  on  ourcomputed  trajectory.  We  base  our  experiments  on  theCrazyFlie 2.0 robot which is quite small in size:
+This  project is an individual course project for MEAM 620: Advanced Robotics at Upenn. 
 
+The project explores  a  quatrotor’s  capability  ofmaneuvering 3D space by designing an autonomy stack consisting  of  planning  and  control  algorithms.  Givena  3D  environment  map  with  obstacle  locations,  and,  a start and an end position, the goal is to fly a quadrotor smoothly  and  safely  from  start  to  end  based  on  ourcomputed  trajectory.  We  base  our  experiments  on  theCrazyFlie 2.0 robot which is quite small in size:
+
+![](CrazyFlie.png)
 
 - Control part is implementing papers: “Minimum snap trajectory generation and control for quadrotors” from D. Mellinger and V. Kumar, and "Geometric tracking control of a quadrotor uav on SE(3)" from T. Lee, M. Leok, and N. McClamroch.
 
