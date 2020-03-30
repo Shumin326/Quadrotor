@@ -6,8 +6,16 @@
 - lab results:
 1. control test: fly a 1m cube
 
-![](control_test.gif)
+![](results/control_test.gif)
 
-2. maze test: fly from start to end point inside a maze, use graph search and min-jerk trajectory design
+2. maze tests: fly from start to end point inside a maze, use graph search and min-jerk trajectory design. Here is the lab test video:
 
-![](maze_test.gif)
+  - ![](results/maze_test.gif)
+  
+Also, the actual trajectory is recorded and compared to the planned trajectory. The actual trajectory is in blue line, generated minimum jerk trajectory is in black line, original A* path is in red line.
+
+  - ![](results/maze_test_1.png)
+
+  - ![](results/maze_test_2.png)
+
+  - ![](results/maze_test_3.png)
