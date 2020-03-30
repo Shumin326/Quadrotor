@@ -12,7 +12,9 @@
 
   - ![](results/maze_test.gif)
   
-Also, the actual trajectory is recorded and compared to the planned trajectory. The actual trajectory is in blue line, generated minimum jerk trajectory is in black line, original A* path is in red line.
+Also, the actual trajectory is recorded by vicon and we can compare it to the planned trajectory. 
+
+The actual trajectory is in blue line, generated minimum jerk trajectory is in black line, original A* path is in red line.
 
   - ![](results/maze_test_1.png)
 
