@@ -2,7 +2,7 @@
 
 This  project is an individual course project for MEAM 620: Advanced Robotics at Upenn. 
 
-The project explores  a  quatrotor’s  capability  of maneuvering 3D space by designing an autonomy stack consisting  of  planning  and  control  algorithms.  Givena  3D  environment  map  with  obstacle  locations,  and,  a start and an end position, the goal is to fly a quadrotor smoothly  and  safely  from  start  to  end  based  on  the computed  trajectory.  We  base  our  experiments  on  theCrazyFlie 2.0 robot which is quite small in size:
+The project explores  a  quatrotor’s  capability  of maneuvering 3D space by designing an autonomy stack consisting  of  planning  and  control  algorithms.  Given a  3D  environment  map  with  obstacle  locations,  and,  a start and an end position, the goal is to fly a quadrotor smoothly  and  safely  from  start  to  end  based  on  the computed  trajectory.  The experiments are based on the CrazyFlie 2.0 robot which is quite small in size:
 
 ![](CrazyFlie.png)
 
